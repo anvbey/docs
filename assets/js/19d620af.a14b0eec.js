@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkeploy_docs=self.webpackChunkkeploy_docs||[]).push([[5834],{5041:function(e){e.exports=JSON.parse('{"name":"ui","permalink":"/docs/tags/ui","docs":[{"id":"operation/web-ui-operations","title":"Operations on Web UI","description":"Guide into Keploy Console","permalink":"/docs/operation/web-ui-operations"}],"allTagsPath":"/docs/tags"}')}}]);
